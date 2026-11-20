@@ -1,4 +1,4 @@
-# rf4_server_simulator
+# РР4 Русская рыбалка локальный сервер
 
 [English](README.en.md)
 
